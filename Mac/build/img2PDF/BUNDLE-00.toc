@@ -1,0 +1,1 @@
+([('img2PDF', '/Users/akihiro/Desktop/配布用/dist/img2PDF', 'EXECUTABLE')],)
